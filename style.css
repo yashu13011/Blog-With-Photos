@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    background-color:turquoise;
+}
+p1{
+    color:crimson;
+    font-size:50px;
+}
+#image1{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+}
+#image2{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#image3{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center
+}
+#image4{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
